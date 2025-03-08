@@ -1,2 +1,2 @@
-# cmpt201-lab-activities
-Lab activities for CMPT201 Spring 2025
+# cmpt201-spring-2025
+Resources from CMPT201 Spring 2025
